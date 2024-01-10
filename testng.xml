@@ -5,7 +5,7 @@
         <classes>
             <class name="seleniumSampleTests.Drafts1"/>
         </classes>
-    </test> <!-- Test -->
+    </test>
 
 
-</suite> <!-- Suite -->
+</suite>
